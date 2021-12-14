@@ -1,4 +1,16 @@
 
-N	java:S106"9Replace this use of System.out or System.err by a logger.(úÛŸ¢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(şéÒù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙùëÜøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Îñë
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Úà†Âşÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ò×‘ûøÿÿÿÿ
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(úÛŸ¢8ï†ÖÛ/
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ªÈË8ï†ÖÛ/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(’«ú¦8ï†ÖÛ/
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(Á’©œ8ï†ÖÛ/
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(‰‚îÊúÿÿÿÿ8ğ†ÖÛ/
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(¸÷»şÿÿÿÿ8ıÎ•ÖÛ/
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+z	java:S1350"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ğ†ÖÛ/
 0
 java:S1220""Move this file to a named package.
