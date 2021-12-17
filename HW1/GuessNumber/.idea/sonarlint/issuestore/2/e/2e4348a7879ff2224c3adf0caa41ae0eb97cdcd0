@@ -1,5 +1,2 @@
 
-0
-java:S1220""Move this file to a named package.
-R
-java:S25893"7Remove this expression which always evaluates to "true"(«øÇùÿÿÿÿ
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ

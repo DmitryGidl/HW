@@ -1,3 +1,8 @@
 
-0
-java:S1220""Move this file to a named package.
+n
+java:S1104"XMake randomNumber a static final constant or non-public and provide accessors if needed.(õ’ç±
+q
+java:S1104	"VMake minBarrier a static final constant or non-public and provide accessors if needed.(¹æóšùÿÿÿÿ
+l
+java:S1104
+"VMake maxBarrier a static final constant or non-public and provide accessors if needed.(¾øÂ§
