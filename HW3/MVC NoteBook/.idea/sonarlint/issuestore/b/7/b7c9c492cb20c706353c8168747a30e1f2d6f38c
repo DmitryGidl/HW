@@ -1,0 +1,5 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬áÿÎ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(€îàüÿÿÿÿ8¦œÍ–İ/
